@@ -70,6 +70,7 @@ legend {
 
 
 .group img {
+    display: flex;
     width: 100%;
 }
 
@@ -84,6 +85,12 @@ legend {
 .item {
     flex: 1;
     margin: 10px;
+}
+
+.portfolioPhoto img {
+    display: flex;
+    margin: 10px;
+    
 }
 
 
